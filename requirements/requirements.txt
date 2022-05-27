@@ -1,0 +1,5 @@
+Django==3.2.13
+django-ipware==4.0.2
+djangorestframework==3.13.1
+psycopg2-binary==2.9.3
+python-env-loader==0.0.2
